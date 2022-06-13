@@ -6,5 +6,7 @@ You can follow their videos from these links:
 [Composition](https://www.youtube.com/playlist?list=PLDoPjvoNmBAz9sluuyOWPifXvySgrGma8)
 
 ### Screenshots
+Composition:
 ![composition](https://github.com/AbdAlghaniAlbiek/Sass_projects/blob/main/snapshots/composition.png)
+Delivery:
 ![delivery](https://github.com/AbdAlghaniAlbiek/Sass_projects/blob/main/snapshots/delivery.png)
